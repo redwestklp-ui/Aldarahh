@@ -1,0 +1,6 @@
+{
+  "name": "فوال وشعبيات شعاع الدره | Shuaa Al Durrah Restaurant",
+  "description": "الموقع الرسمي لمطعم فوال وشعبيات شعاع الدره في عفيف - أشهى المأكولات الشعبية، الفطور، الشاورما، وطبخ سمك تنور. خدمة 24 ساعة، سفري، محلي وتوصيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
